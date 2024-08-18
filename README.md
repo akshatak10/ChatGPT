@@ -12,6 +12,8 @@
 
 ---
 
+Akshat Rawat
+
 > [!NOTE]
 > **If you want to experience a more powerful AI wrapper application, you can try the Noi (https://github.com/lencx/Noi), which is a successor to the ChatGPT desktop application concept.**
 
